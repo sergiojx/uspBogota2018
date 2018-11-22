@@ -4,5 +4,6 @@
 ## Indexed actual vote image pair annotations
 descriptorIndexer_Jul_0518.txt <br/>
 Indexing starts at 1 not at 0 !!
-## The visual survey published image names
+18959 annotations <br/>
+## Visual survey published image name list
 imgnames.txt
