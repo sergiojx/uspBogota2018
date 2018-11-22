@@ -8,11 +8,11 @@ Indexing starts at 1 not at 0 !! <br/>
 ## Visual survey published image name list
 imgnames.txt
 ## Visual survey published image feature vector files
-### cielabA, gist and hog features
+### cielabA, gist and hog features.zip
 1. cielabA2.txt
 2. cielabB2.txt
 3. cielabL2.txt
 4. gistSet.txt
 5. hogSet.txt
-### VGG19_features
+### VGG19_features.zip
 1. VGG19Chapinero_Ftrs.csv
