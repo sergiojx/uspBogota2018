@@ -3,7 +3,7 @@
 5505 street images of the Chapinero locality
 ## Indexed actual vote image pair annotations
 descriptorIndexer_Jul_0518.txt <br/>
-Indexing starts at 1 not at 0 !!
-18959 annotations <br/>
+Indexing starts at 1 not at 0 !! <br/>
+18959 annotations 
 ## Visual survey published image name list
 imgnames.txt
