@@ -22,8 +22,8 @@ imgnames.txt
 content of street images*. IEEE IV International Smart Cities Conference
 (ISC2), 2018.
 
-* Acosta, S., Camargo, J. *Predicting city safety perception based on vi-
-sual image content*. 23rd Iberoamerican Congress on Pattern Recognition
+* Acosta, S., Camargo, J. *Predicting city safety perception based on visual image content*. 
+23rd Iberoamerican Congress on Pattern Recognition
 (CIARP), 2018.
 ```
 @InProceedings{Acosta:2018:PSP,
