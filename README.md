@@ -17,7 +17,7 @@ imgnames.txt
 ### VGG19_features.zip
 1. VGG19Chapinero_Ftrs.csv
 
-### Papres
+### Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
 content of street images*. IEEE IV International Smart Cities Conference
 (ISC2), 2018.
