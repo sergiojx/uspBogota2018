@@ -18,10 +18,18 @@ imgnames.txt
 1. VGG19Chapinero_Ftrs.csv
 
 ### Papres
-* Acosta, S., Camargo, J. City safety perception model based on visual
-content of street images. IEEE IV International Smart Cities Conference
+* Acosta, S., Camargo, J. *City safety perception model based on visual
+content of street images*. IEEE IV International Smart Cities Conference
 (ISC2), 2018.
 
-* Acosta, S., Camargo, J. Predicting city safety perception based on vi-
-sual image content. 23rd Iberoamerican Congress on Pattern Recognition
+* Acosta, S., Camargo, J. *Predicting city safety perception based on vi-
+sual image content*. 23rd Iberoamerican Congress on Pattern Recognition
 (CIARP), 2018.
+```
+@InProceedings{Acosta:2018:PSP,
+  author      = "Sergio Acosta and Jorge Camargo",
+  title       = "Predicting city safety perception based on visual image content",
+  booktitle   = "CIARP 2018, LNCS 11401",
+  year        = "2019",
+}
+```
