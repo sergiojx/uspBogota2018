@@ -16,3 +16,12 @@ imgnames.txt
 5. hogSet.txt
 ### VGG19_features.zip
 1. VGG19Chapinero_Ftrs.csv
+
+### Papres
+* Acosta, S., Camargo, J. City safety perception model based on visual
+content of street images. IEEE IV International Smart Cities Conference
+(ISC2), 2018.
+
+* Acosta, S., Camargo, J. Predicting city safety perception based on vi-
+sual image content. 23rd Iberoamerican Congress on Pattern Recognition
+(CIARP), 2018.
