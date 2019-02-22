@@ -19,6 +19,8 @@ imgnames.txt
 ### notebooks
 #### transfer4uspVGG16FtrExtr.ipynb
 Used for image VGG19 based feature extraction
+#### randomVoteSchemeIII.ipynb and randomVoteSchemeIV.ipynb
+Used to generate synthetic vote image pairs.
 ### Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
 content of street images*. IEEE IV International Smart Cities Conference
