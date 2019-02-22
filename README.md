@@ -16,7 +16,9 @@ imgnames.txt
 5. hogSet.txt
 ### VGG19_features.zip
 1. VGG19Chapinero_Ftrs.csv
-
+### notebooks
+#### transfer4uspVGG16FtrExtr.ipynb
+Used for image VGG19 based feature extraction
 ### Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
 content of street images*. IEEE IV International Smart Cities Conference
