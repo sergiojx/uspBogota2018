@@ -26,7 +26,7 @@ Training notebook
 
 ### transfer4uspVGG16NonEQUVerify_Jul_0518.zip
 Tensor Flow model
-### trueskillImgScoreShmIII.ipynb
+## TrueskillImgScoreShmIII.ipynb
 Top 40 image rating visualization
 ### True Skill based predictors
 #### VGG19ChapineroTSkillPredictor.py
