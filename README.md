@@ -26,6 +26,9 @@ Training notebook
 ### Tensor Flow model
 transfer4uspVGG16NonEQUVerify_Jul_0518.zip
 ### True Skill based predictors
+#### VGG19ChapineroTSkillPredictor.py
+#### VGG19MartiresTSkillPredictor.py
+#### VGG19UsaquenTSkillPredictor.py
 
 ## Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
