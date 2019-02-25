@@ -23,8 +23,11 @@ Used for image VGG19 based feature extraction
 Used to generate synthetic vote image pairs.
 ### transfer4uspVGG16SoftMaxNonEQU.ipynb
 Training notebook
-### Tensor Flow model
-transfer4uspVGG16NonEQUVerify_Jul_0518.zip
+
+### transfer4uspVGG16NonEQUVerify_Jul_0518.zip
+Tensor Flow model
+### trueskillImgScoreShmIII.ipynb
+Top 40 image rating visualization
 ### True Skill based predictors
 #### VGG19ChapineroTSkillPredictor.py
 #### VGG19MartiresTSkillPredictor.py
