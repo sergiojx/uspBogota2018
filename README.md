@@ -23,6 +23,10 @@ Used for image VGG19 based feature extraction
 Used to generate synthetic vote image pairs.
 ### transfer4uspVGG16SoftMaxNonEQU.ipynb
 Training notebook
+### Tensor Flow model
+transfer4uspVGG16NonEQUVerify_Jul_0518.zip
+### True Skill based predictors
+
 ## Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
 content of street images*. IEEE IV International Smart Cities Conference
