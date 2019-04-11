@@ -42,10 +42,7 @@ content of street images*. IEEE IV International Smart Cities Conference
 23rd Iberoamerican Congress on Pattern Recognition
 (CIARP), 2018.
 ```
-@InProceedings{Acosta:2018:PSP,
-  author      = "Sergio Acosta and Jorge Camargo",
-  title       = "Predicting city safety perception based on visual image content",
-  booktitle   = "CIARP 2018, LNCS 11401",
-  year        = "2019",
-}
+Acosta S.F., Camargo J.E. (2019) Predicting City Safety Perception Based on Visual Image Content. In: Vera-Rodriguez R., Fierrez J., Morales A. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2018. Lecture Notes in Computer Science, vol 11401. Springer, Cham
+
+https://link.springer.com/chapter/10.1007/978-3-030-13469-3_21#citeas
 ```
