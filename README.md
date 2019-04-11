@@ -41,11 +41,7 @@ content of street images*. IEEE IV International Smart Cities Conference
 * Acosta, S., Camargo, J. *Predicting city safety perception based on visual image content*. 
 23rd Iberoamerican Congress on Pattern Recognition
 (CIARP), 2018.
-```
-Acosta S.F., Camargo J.E. (2019) Predicting City Safety Perception Based on Visual Image Content. In: Vera-Rodriguez R., Fierrez J., Morales A. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2018. Lecture Notes in Computer Science, vol 11401. Springer, Cham
 
-https://link.springer.com/chapter/10.1007/978-3-030-13469-3_21#citeas
-```
 <div class="col-md-6">
 <ul>
 <li><font color="#333333"><span style="font-size:13.3333px;font-weight:400">Acosta S.F., Camargo J.E. (2019) Predicting City Safety Perception Based on Visual Image Content. In: Vera-Rodriguez R., Fierrez J., Morales A. (eds) Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. CIARP 2018. Lecture Notes in Computer Science, vol 11401. Springer, Cham.&nbsp;</span></font><a href="https://link.springer.com/chapter/10.1007/978-3-030-13469-3_21#citeas" style="color:rgb(51,51,51);background-image:initial;background-repeat:initial;background-color:rgb(231,231,231);padding:2px;font-size:13.3333px" target="_blank" rel="nofollow"><img alt="https://link.springer.com/chapter/10.1007/978-3-030-13469-3_21#citeas" border="0" src="https://sites.google.com/site/camargoj/_/rsrc/1268056649249/publications/pdf.png"></a><span style="color:rgb(51,51,51);font-size:13.3333px;font-weight:400">&nbsp;</span></li>
