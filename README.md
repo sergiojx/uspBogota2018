@@ -32,7 +32,7 @@ Top 40 image rating visualization
 #### VGG19ChapineroTSkillPredictor.py
 #### VGG19MartiresTSkillPredictor.py
 #### VGG19UsaquenTSkillPredictor.py
-## OpenMPI C Code for SVM parameter grid exploratio
+## OpenMPI C Code for SVM parameter grid exploration
 This works along with NFS and MPI multi core machine cluster
 #### mpi_svmprtrs.c
 ## Papers
