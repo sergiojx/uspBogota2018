@@ -32,7 +32,9 @@ Top 40 image rating visualization
 #### VGG19ChapineroTSkillPredictor.py
 #### VGG19MartiresTSkillPredictor.py
 #### VGG19UsaquenTSkillPredictor.py
-
+## OpenMPI C Code for SVM parameter grid exploratio
+This works along with NFS and MPI multi core machine cluster
+#### mpi_svmprtrs.c
 ## Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
 content of street images*. IEEE IV International Smart Cities Conference
