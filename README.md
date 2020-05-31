@@ -38,7 +38,7 @@ This works along with NFS and MPI multi core machine cluster
 ## Papers
 * Acosta, S., Camargo, J. *City safety perception model based on visual
 content of street images*. IEEE IV International Smart Cities Conference
-(ISC2), 2018.
+(ISC2), 2018. [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8656949)
 
 * Acosta, S., Camargo, J. *Predicting city safety perception based on visual image content*. 
 23rd Iberoamerican Congress on Pattern Recognition
